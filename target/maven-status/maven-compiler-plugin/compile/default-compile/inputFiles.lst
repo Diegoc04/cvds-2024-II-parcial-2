@@ -1,8 +1,8 @@
-/Users/smileit/it/dev/eci/cvds/2024/primer-semestre/cvds-2024-II-parcial-2/src/main/java/co/edu/eci/cvds/controller/ConfigurationController.java
-/Users/smileit/it/dev/eci/cvds/2024/primer-semestre/cvds-2024-II-parcial-2/src/main/java/co/edu/eci/cvds/repository/ConfigurationRepository.java
-/Users/smileit/it/dev/eci/cvds/2024/primer-semestre/cvds-2024-II-parcial-2/src/main/java/co/edu/eci/cvds/model/Configuration.java
-/Users/smileit/it/dev/eci/cvds/2024/primer-semestre/cvds-2024-II-parcial-2/src/main/java/co/edu/eci/cvds/controller/LoginController.java
-/Users/smileit/it/dev/eci/cvds/2024/primer-semestre/cvds-2024-II-parcial-2/src/main/java/co/edu/eci/cvds/config/BasicAuthInterceptor.java
-/Users/smileit/it/dev/eci/cvds/2024/primer-semestre/cvds-2024-II-parcial-2/src/main/java/co/edu/eci/cvds/SpringApplicationParcial.java
-/Users/smileit/it/dev/eci/cvds/2024/primer-semestre/cvds-2024-II-parcial-2/src/main/java/co/edu/eci/cvds/service/ConfigurationService.java
-/Users/smileit/it/dev/eci/cvds/2024/primer-semestre/cvds-2024-II-parcial-2/src/main/java/co/edu/eci/cvds/config/WebConfig.java
+C:\Users\diego.castellanos-a\Downloads\cvds-2024-II-parcial-2\src\main\java\co\edu\eci\cvds\SpringApplicationParcial.java
+C:\Users\diego.castellanos-a\Downloads\cvds-2024-II-parcial-2\src\main\java\co\edu\eci\cvds\config\WebConfig.java
+C:\Users\diego.castellanos-a\Downloads\cvds-2024-II-parcial-2\src\main\java\co\edu\eci\cvds\controller\ConfigurationController.java
+C:\Users\diego.castellanos-a\Downloads\cvds-2024-II-parcial-2\src\main\java\co\edu\eci\cvds\controller\LoginController.java
+C:\Users\diego.castellanos-a\Downloads\cvds-2024-II-parcial-2\src\main\java\co\edu\eci\cvds\repository\ConfigurationRepository.java
+C:\Users\diego.castellanos-a\Downloads\cvds-2024-II-parcial-2\src\main\java\co\edu\eci\cvds\service\ConfigurationService.java
+C:\Users\diego.castellanos-a\Downloads\cvds-2024-II-parcial-2\src\main\java\co\edu\eci\cvds\config\BasicAuthInterceptor.java
+C:\Users\diego.castellanos-a\Downloads\cvds-2024-II-parcial-2\src\main\java\co\edu\eci\cvds\model\Configuration.java
