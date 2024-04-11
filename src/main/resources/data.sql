@@ -1,1 +1,1 @@
-INSERT INTO DIEGOCASTELLANOS (Numero, Letra, Explicacion) VALUES ('1', 'Z', '123');
+INSERT INTO DIEGO_CASTELLANOS (Numero, Letra, Explicacion) VALUES ('1', 'Z', '123');
