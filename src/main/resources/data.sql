@@ -1,1 +1,1 @@
-INSERT INTO Miguel_Tellez (PROPIEDAD, VALOR, RAZON) VALUES ('1', 'A', 'porque si');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('1', 'A', 'porque si');
