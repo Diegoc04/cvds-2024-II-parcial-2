@@ -6,3 +6,4 @@ co\edu\eci\cvds\repository\ConfigurationRepository.class
 co\edu\eci\cvds\controller\ConfigurationController.class
 co\edu\eci\cvds\SpringApplicationParcial.class
 co\edu\eci\cvds\service\ConfigurationService.class
+co\edu\eci\cvds\model\DiegoCastellanos.class

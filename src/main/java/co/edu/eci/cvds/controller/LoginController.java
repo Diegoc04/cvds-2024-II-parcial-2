@@ -19,7 +19,7 @@ import java.util.UUID;
 @RequestMapping(value = "/login")
 public class LoginController {
 
-    private static final String LOGIN_PAGE = "Respuestas teorico";
+    private static final String LOGIN_PAGE = "login/login";
 
     @Autowired
     public LoginController() {

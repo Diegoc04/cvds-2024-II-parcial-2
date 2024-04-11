@@ -1,1 +1,1 @@
-INSERT INTO CONFIGURATION (Numero pregunta, Letra, Explicación) VALUES ('1', 'Valor 1', 'Explicacion 1');
+INSERT INTO DIEGOCASTELLANOS (Numero, Letra, Explicacion) VALUES ('1', 'Z', '123');
