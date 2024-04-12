@@ -1,5 +1,5 @@
 INSERT INTO DIEGO_CASTELLANOS (Numero, Letra, Explicacion) VALUES ('1', 'b', '.');
-INSERT INTO DIEGO_CASTELLANOS (Numero, Letra, Explicacion) VALUES ('2', 'b' '.');
+INSERT INTO DIEGO_CASTELLANOS (Numero, Letra, Explicacion) VALUES ('2', 'b', '.');
 INSERT INTO DIEGO_CASTELLANOS (Numero, Letra, Explicacion) VALUES ('3', 'd', '.');
 INSERT INTO DIEGO_CASTELLANOS (Numero, Letra, Explicacion) VALUES ('4', 'b', '.');
 INSERT INTO DIEGO_CASTELLANOS (Numero, Letra, Explicacion) VALUES ('5', 'c', '.');
