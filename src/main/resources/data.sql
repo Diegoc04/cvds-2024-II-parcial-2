@@ -1,1 +1,16 @@
-INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('1', 'A', 'porque si');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('123', 'ABC', 'porque si');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('1', 'd', '.');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('2', 'd', '.');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('3', 'd', '.');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('4', 'b', '.');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('5', 'b', '.');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('6', 'c', '.');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('7', 'a', '.');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('8', 'd', '.');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('9', 'a', '.');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('10', 'b', '.');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('11', 'c', '.');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('12', 'd', '.');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('13', 'b', '.');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('14', 'a', '.');
+INSERT INTO Miguel_Tellez (NUMERO, LETRA, RAZON) VALUES ('15', 'c', '.');
