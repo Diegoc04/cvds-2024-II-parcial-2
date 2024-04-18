@@ -1,10 +1,12 @@
 co\edu\eci\cvds\model\Configuration.class
 co\edu\eci\cvds\config\BasicAuthInterceptor.class
-co\edu\eci\cvds\controller\DiegoCastellanosControllers.class
 co\edu\eci\cvds\controller\LoginController.class
+co\edu\eci\cvds\service\DiegoCastellanosService.class
 co\edu\eci\cvds\SpringApplicationParcial.class
 co\edu\eci\cvds\model\DiegoCastellanos.class
 co\edu\eci\cvds\config\WebConfig.class
+co\edu\eci\cvds\controller\DiegoCastellanosController.class
 co\edu\eci\cvds\repository\ConfigurationRepository.class
+co\edu\eci\cvds\repository\DiegoCastellanosRepository.class
 co\edu\eci\cvds\controller\ConfigurationController.class
 co\edu\eci\cvds\service\ConfigurationService.class
