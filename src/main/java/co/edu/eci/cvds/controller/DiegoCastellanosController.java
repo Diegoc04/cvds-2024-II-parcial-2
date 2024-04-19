@@ -1,16 +1,13 @@
 package co.edu.eci.cvds.controller;
 
-import co.edu.eci.cvds.model.DiegoCastellanos;
 import co.edu.eci.cvds.service.DiegoCastellanosService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
-
 @Controller
-@RequestMapping(value = "/configuration")
+@RequestMapping(value = "/Diego_Castellanos")
 public class DiegoCastellanosController {
 
     private final DiegoCastellanosService diegoCastellanosService;
@@ -20,9 +17,9 @@ public class DiegoCastellanosController {
         this.diegoCastellanosService = diegoCastellanosService;
     }
 
-    @GetMapping("/DiegoCastellanos")
+    @GetMapping("")
     public String example(Model model) {
-        model.addAttribute("premio");
+        model.addAttribute("diegoCastellanos", diegoCastellanosService.getAllDiegoCastellanos());
         return "DiegoCastellanos";
     }
 }

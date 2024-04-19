@@ -13,8 +13,8 @@ public class DiegoCastellanos {
     private String numero;
     @Column(name = "Letra")
     private String letra;
-    @Column(name = "Explicacion")
-    private String explicacion;
+    @Column(name = "Argumento")
+    private String argumento;
 
     public DiegoCastellanos() {
     }
@@ -22,7 +22,7 @@ public class DiegoCastellanos {
     public DiegoCastellanos(String Numero, String Letra, String Explicacion) {
         this.numero = Numero;
         this.letra = Letra;
-        this.explicacion = Explicacion;
+        this.argumento = Explicacion;
     }
 
     public String getNumero() {
@@ -41,8 +41,16 @@ public class DiegoCastellanos {
         this.letra = Letra;
     }
 
+    public String getArgumento() {
+        return argumento;
+    }
+
+    public void setArgumento(String Letra) {
+        this.argumento = argumento;
+    }
+
     @Override
     public String toString() {
-        return "DiegoCastellanos [Numero = " + numero + ", Letra = " + letra + "Explicacion = " + explicacion + "]";
+        return "DiegoCastellanos [Numero = " + numero + ", Letra = " + letra + "Explicacion = " + argumento + "]";
     }
 }

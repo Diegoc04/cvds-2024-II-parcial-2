@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org" lang="en"><!-- //NOSONAR -->
+<th:block th:replace="fragments/general.html::headerfiles('Greeting Page')"></th:block>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Respuestas</title>
+</head>
+<body>
+<h1>Respuestas</h1>
+<table>
+    <thead>
+    <tr>
+        <th>Numero</th>
+        <th>Letra</th>
+        <th>Explicación</th>
+
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="diegoCastellanos : ${diegoCastellanos}">
+        <td th:text="${diegoCastellanos.numero}"></td>
+        <td th:text="${diegoCastellanos.letra}"></td>
+        <td th:text="${diegoCastellanos.argumento}"></td>
+    </tr>
+    </tbody>
+</table>
+
+</body>
+<footer th:replace="fragments/general::empty-footer"></footer>
+</html>
