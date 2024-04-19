@@ -20,8 +20,8 @@ public class DiegoCastellanosService {
         return diegoCastellanosRepository.save(diegoCastellanos);
     }
 
-    public DiegoCastellanos getDiegoCastellanos(String Numero) {
-        return diegoCastellanosRepository.findByNumero(Numero).get(1);
+    public DiegoCastellanos getDiegoCastellanos(String numero) {
+        return diegoCastellanosRepository.findByNumero(numero).get(1);
     }
 
     public List<DiegoCastellanos> getAllDiegoCastellanos() {

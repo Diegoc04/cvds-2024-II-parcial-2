@@ -10,39 +10,39 @@ import jakarta.persistence.Table;
 public class DiegoCastellanos {
     @Id
     @Column(name = "Numero")
-    private String Numero;
+    private String numero;
     @Column(name = "Letra")
-    private String Letra;
+    private String letra;
     @Column(name = "Explicacion")
-    private String Explicacion;
+    private String explicacion;
 
     public DiegoCastellanos() {
     }
 
     public DiegoCastellanos(String Numero, String Letra, String Explicacion) {
-        this.Numero = Numero;
-        this.Letra = Letra;
-        this.Explicacion = Explicacion;
+        this.numero = Numero;
+        this.letra = Letra;
+        this.explicacion = Explicacion;
     }
 
     public String getNumero() {
-        return Numero;
+        return numero;
     }
 
     public void setNumero(String Numero) {
-        this.Numero = Numero;
+        this.numero = Numero;
     }
 
     public String getLetra() {
-        return Letra;
+        return letra;
     }
 
     public void setLetra(String Letra) {
-        this.Letra = Letra;
+        this.letra = Letra;
     }
 
     @Override
     public String toString() {
-        return "DiegoCastellanos [Numero = " + Numero + ", Letra = " + Letra + "Explicacion = " + Explicacion + "]";
+        return "DiegoCastellanos [Numero = " + numero + ", Letra = " + letra + "Explicacion = " + explicacion + "]";
     }
 }

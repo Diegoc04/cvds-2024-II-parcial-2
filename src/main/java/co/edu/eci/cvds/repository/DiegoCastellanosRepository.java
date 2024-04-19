@@ -8,6 +8,6 @@ import java.util.List;
 
 @Repository
 public interface DiegoCastellanosRepository extends JpaRepository<DiegoCastellanos, String> {
-    public List<DiegoCastellanos> findByNumero(String Numero);
+    public List<DiegoCastellanos> findByNumero(String numero);
 
 }
