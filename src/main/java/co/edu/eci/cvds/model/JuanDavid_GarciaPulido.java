@@ -29,6 +29,9 @@ public class JuanDavid_GarciaPulido {
 
     }
 
+    public String getNumero() {
+        return numero;
+    }
     public String getPropiedad() {
         return propiedad;
     }
